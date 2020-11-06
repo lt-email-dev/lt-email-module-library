@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Welcome to the LT Module Library
 
-You can use the [editor on GitHub](https://github.com/lt-email-dev/lt-email-module-library/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a library that houses template modules. It lists the vscodesnippet to use for inserting it into your code, and it displays the css you can copy and paste to make these modules work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Call to Actions (CTAs)
+We use 3 main CTAs. They can have rounded or soft square edges
 
-### Markdown
+**VSCode Snippet:** lt-cta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Rounded CTAs_
+![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-round.png)
 
-```markdown
-Syntax highlighted code block
+_Square CTAs_
+![Image of Square CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-square.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### CSS:
+**Mobile CSS**
+```
+.container-cta a {
+    font-size: 15px !important;
+    padding: 10px !important;
+  }
 
-[Link](url) and ![Image](src)
+  .container-cta {
+    width: 267px !important;
+  }
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Dark Mode CSS**
+The dark mode code for this module is already included in the starter template
+```
+/* Make Link Text Black */
+  .container-cta a {
+    color:#000 !important;
+  }
 
-### Jekyll Themes
+/* Make Ghost CTA Link Text White */
+  .container-cta a.cta-blue-ghost {
+    color:#FFF !important;
+  }
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lt-email-dev/lt-email-module-library/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Notes
+- Square buttons have a border radius of 4px
+- Round buttons have a border radius of 25px
+- You can adjust the width of the button
+- You can change this button to 3 different colors: #FF704D(Electric Salmon),#00AEEF(Blue) or #08C177(Green)
