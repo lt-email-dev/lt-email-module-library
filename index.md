@@ -16,8 +16,7 @@ _Square CTAs_
 
 
 
-### CSS:
-**Mobile CSS**
+### Mobile CSS:
 ```
 .container-cta a {
     font-size: 15px !important;
@@ -30,7 +29,7 @@ _Square CTAs_
 
 ```
 
-**Dark Mode CSS**
+### Dark Mode CSS:
 The dark mode code for this module is already included in the starter template
 ```
 /* Make Link Text Black */
