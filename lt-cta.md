@@ -1,4 +1,6 @@
 
+[Return Home](index.md)
+
 # CTAs
 CTA stands for 'Call to Action'. We use Orange, Blue, and Green CTAs. They can have rounded or soft square edges
 ```
@@ -41,3 +43,6 @@ The dark mode code for this module is already included in the starter template
 - Round buttons have a border radius of 25px
 - You can adjust the width of the button
 - You can change this button to 3 different colors: #FF704D(Electric Salmon), #00AEEF(Blue) or #08C177(Green)
+
+
+[Return Home](index.md)
