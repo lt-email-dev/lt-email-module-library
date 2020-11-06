@@ -1,7 +1,7 @@
 
 [Return Home](index.md)
 
-# CTAs
+# CTA
 CTA stands for 'Call to Action'. We use Orange, Blue, and Green CTAs. They can have rounded or soft square edges
 ```
 VSCode Snippet Shortcut: lt-cta
