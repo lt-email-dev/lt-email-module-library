@@ -8,7 +8,7 @@ VSCode Snippet Shortcut: lt-ul-color
 ```
 
 
-![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-round.png)
+![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-ul-color.png)
 
 
 ## Mobile CSS:
