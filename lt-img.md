@@ -19,7 +19,7 @@ VS Code Snippet Shortcut: lt-img
 
 
 ## Tabs
-After inserting the image code into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
+After inserting the code snippet into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
 1. image name
 2. width
 3. height
