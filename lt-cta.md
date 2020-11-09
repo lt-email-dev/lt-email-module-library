@@ -12,6 +12,7 @@ VSCode Snippet Shortcut: lt-cta
 
 
 ## Mobile CSS:
+The mobile CSS for this module is already included in the starter template
 ```
 .container-cta a {
     font-size: 15px !important;
@@ -25,7 +26,7 @@ VSCode Snippet Shortcut: lt-cta
 ```
 
 ## Dark Mode CSS:
-The dark mode code for this module is already included in the starter template
+The dark mode CSS for this module is already included in the starter template
 ```
 /* Make Link Text Black */
   .container-cta a {
