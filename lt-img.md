@@ -8,7 +8,16 @@ This is your run of the mill basic image
 VS Code Snippet Shortcut: lt-img
 ```
 
+## Mobile CSS:
+This is a mobile class you can include optionally to make the image full width on mobile.
+```
+.fluid-img {
+    height: auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
 
+```
 
 ## Notes
 - The image snippets contains the first part of the path for the images stored in AWS.  You will need to add the name of your image.
