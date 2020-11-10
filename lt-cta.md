@@ -25,6 +25,25 @@ The mobile CSS for this module is already included in the starter template
 
 ```
 
+
+## Additional CSS for Hover Effect:
+Paste this CSS abover mobile CSS styles. These are the hover effects. You can paste all of these styles are just the one for the color button you are using.
+```
+.cta-es:hover { 
+  background-color: #eb5843 !important;
+}
+
+.cta-blue-ghost:hover,
+.cta-blue:hover { 
+  background-color: #2187c1 !important; 
+}
+
+.cta-green:hover { 
+  background-color: #069059 !important; 
+}
+
+```
+
 ## Dark Mode CSS:
 The dark mode CSS for this module is already included in the starter template
 ```
