@@ -1,7 +1,7 @@
 
 [Return Home](index.md)
 
-# Font: Sans-Serif
+# Font: Sans Serif
 This snippet inserts the sans-serif fontstack for font-family inline css.  Use this inside of the **style="..."** tag of an html text element.
 
 
