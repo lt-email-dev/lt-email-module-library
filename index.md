@@ -10,7 +10,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Image](lt-img.md)
 
 ## Useful Snippets
-
+- [Centering Div](lt-center.md)
 
 
 ## Dark Mode Snippets
