@@ -10,7 +10,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Call to Action (CTA)](lt-cta.md)
 - [Image](lt-img.md)
 
-## Useful Snippets
+## Useful miscellaneous Snippets
 - [Centering Div](lt-center.md)
 - [Font: Sans Serif](lt-font-ss.md)
 - [Font: Serif](lt-font-s.md)
