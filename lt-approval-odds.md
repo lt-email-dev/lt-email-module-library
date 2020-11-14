@@ -4,12 +4,9 @@
 # Approval Odds 
 This is a dynamic module that displays whether a person has good or very good approval odds based on their credit band. If the user has excellent credit they will see that they have 'Very Good' approval odds.  If the user has good or fair credit, they will see that they have 'Good' approval odds. If the person fall into these 3 credit ranges then they will see nothing.
 
-In order for this module to work correctly you will need to including the below 
 ```
-Blueshift Shared Asset: <shared_asset> bsft_LT_Credit_Score </shared_asset> (already included in the starter template)
 VSCode Snippet Shortcut: lt-approval-odds
 VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
-
 ```
 ### Great Approval Odds
 ![Approval Odds - Great](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-approval-odds-great.png)
@@ -24,13 +21,13 @@ VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
 ## Steps to Add Module to this Template
 There are 3 things you'll need to include in order to setup this template properly
 
-### 1. Blueshift Shared Asset
+### 1. Add the Blueshift Shared Asset
 This should be added to the file beneath **<shared_asset> bsft_Preheader_Text </shared_asset>** (already included in the starter template)
 
-### 2. Approval Odds Component (lt-approval-odds)
+### 2. Add the Approval Odds Component (lt-approval-odds)
 We typically include this in the body of the emails towards the top
 
-### 3. Approval Odds Disclaimer (lt-approval-odds-disclaimer-text)
+### 3. Add the Approval Odds Disclaimer Text (lt-approval-odds-disclaimer-text)
 This should be included in the body of the email at the very bottom. It has dynamic logic so that it only show's if the user has excellent, good, or fair credit.
 
 ## Mobile CSS:
@@ -56,9 +53,12 @@ The dark mode CSS for this module is already included in the starter template
 ```
 
 ## Notes
-- No notes. Go crazy!
+- The images for approval odds should be linked to the main URL that is used throughout the template.
 
 ## Tabs
 no tabs are used with this snippet
 
 [Return Home](index.md)
+
+## Example Template
+![Approval Odds Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-approval-odds-example.png)
