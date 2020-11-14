@@ -4,11 +4,14 @@
 
 This is a library that houses modular email components. It lists the VSCode snippet to use for inserting it into your template, and it displays the css you can copy and paste to make these modules work. Many core modules/components already have the css included in the starter template.
 
-## Email Components
-- [3 Column Boxes with Icons and Text](lt-boxes-3col.md)
+## Core Email Components
 - [Bulleted List with Colored Bullets](lt-ul-color.md)
 - [Call to Action (CTA)](lt-cta.md)
 - [Image](lt-img.md)
+
+## Other Email Components
+- [Approval Odds](lt-approval-odds.md)
+- [3 Column Boxes with Icons and Text](lt-boxes-3col.md)
 
 ## Useful Miscellaneous Snippets
 - [Centering Div](lt-center.md)
