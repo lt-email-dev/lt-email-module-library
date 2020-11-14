@@ -2,8 +2,7 @@
 [Return Home](index.md)
 
 # Approval Odds 
-This is a dynamic module that displays whether a person has good or very good approval odds based on their credit band. If the user has excellent credit they will see that they have 'Very Good' approval odds.  If the user has good or fair credit, they will see that they have 'Good' approval odds. If the person fall into these 3 credit ranges then they will see nothing.
-
+This is a dynamic module that displays whether a person has good or very good approval odds based on their credit band. If the user has excellent credit they will see that they have 'Very Good' approval odds.  If the user has good or fair credit, they will see that they have 'Good' approval odds. If the person doesn't fall into any of these credit bands, they will see nothing.
 ```
 VSCode Snippet Shortcut: lt-approval-odds
 VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
