@@ -60,7 +60,7 @@ The dark mode CSS for this module is already included in the starter template
 ## Tabs
 no tabs are used with this snippet
 
-[Return Home](index.md)
-
 ## Example Template
 ![Approval Odds Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-approval-odds-example.png)
+
+[Return Home](index.md)
