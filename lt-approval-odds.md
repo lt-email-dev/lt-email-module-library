@@ -8,7 +8,7 @@ This is a dynamic module that displays whether a person has good or very good ap
 VSCode Snippet Shortcut: lt-approval-odds
 VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
 ```
-### Great Approval Odds
+### Very Good Approval Odds
 ![Approval Odds - Great](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-approval-odds-great.png)
 
 ### Good Approval Odds
