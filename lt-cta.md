@@ -7,6 +7,7 @@ CTA stands for 'Call to Action'. We use Orange, Blue, and Green CTAs. They can h
 VSCode Snippet Shortcut: lt-cta
 ```
 
+![Image of Squared CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-square.png)
 
 ![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-round.png)
 
