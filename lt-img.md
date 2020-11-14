@@ -5,7 +5,7 @@
 This is your run of the mill basic image
 
 ```
-VS Code Snippet Shortcut: lt-img
+VSCode Snippet Shortcut: lt-img
 ```
 
 ## Mobile CSS:
@@ -28,7 +28,7 @@ This is a mobile class you can include optionally to make the image full width o
 
 
 ## Tabs
-After inserting the code snippet into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
+After inserting the code snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
 1. image name
 2. width
 3. height
