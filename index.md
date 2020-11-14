@@ -11,6 +11,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 
 ## Other Email Components
 - [Approval Odds](lt-approval-odds.md)
+- [Articles](lt-article.md)
 - [3 Column Boxes with Icons and Text](lt-boxes-3col.md)
 
 ## Useful Miscellaneous Snippets
