@@ -7,9 +7,6 @@ This module should be inserted just above the footer or below the main body cont
 VSCode Snippet Shortcut: lt-article
 ```
 
-## Example Template
-![Articles Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-article-example.png)
-
 ### Original View
 Once you insert this module into the template using this snippet, there is a comment that appears that you should replace using the [CTA snippet](lt-cta.md).  Once you insert the CTA snippet, change **align="center"** to **align="left"**.
 
@@ -97,6 +94,9 @@ After inserting the code snippet into VSCode immediately pressing tab will take 
 6. article 2 image URL
 7. article 2 title
 8. article 2 blurb
+
+## Example Template
+![Articles Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-article-example.png)
 
 
 [Return Home](index.md)
