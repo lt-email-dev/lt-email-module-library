@@ -1,14 +1,14 @@
 
 [Return Home](index.md)
 
-## Example Template
-![Articles Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-article-example.png)
-
 # Articles
 This module should be inserted just above the footer or below the main body content.  It is not meant to be used within the main body content of the email. This module displays a space beneath the main body of the email then displays two article blocks separated by a space. On mobile the image stacks above the text.
 ```
 VSCode Snippet Shortcut: lt-article
 ```
+
+## Example Template
+![Articles Example Email Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-article-example.png)
 
 ### Original View
 Once you insert this module into the template using this snippet, there is a comment that appears that you should replace using the [CTA snippet](lt-cta.md).  Once you insert the CTA snippet, change **align="center"** to **align="left"**.
