@@ -21,7 +21,10 @@ VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
 There are 3 things you'll need to include in order to setup this template properly
 
 ### 1. Add the Blueshift Shared Asset
-This should be added to the file beneath **<shared_asset> bsft_Preheader_Text </shared_asset>** (already included in the starter template)
+This should be added to the file beneath **bsft_Preheader_Text** shared asset.  This shared asset is already included in the starter template.
+```
+<shared_asset> bsft_LT_Credit_Score </shared_asset>
+```
 
 ### 2. Add the Approval Odds Component (lt-approval-odds)
 We typically include this in the body of the emails towards the top
