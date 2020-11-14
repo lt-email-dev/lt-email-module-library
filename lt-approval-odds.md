@@ -18,7 +18,7 @@ VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
 ![Approval Odds - Disclaimer Text](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-approval-odds-disclaimer-text.png)
 
 
-## Steps to Add Module to this Template
+## Steps to Add this Module to a Template
 There are 3 things you'll need to include in order to setup this template properly
 
 ### 1. Add the Blueshift Shared Asset
