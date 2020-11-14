@@ -53,16 +53,17 @@ The dark mode CSS for this module is already included in the starter template
 ```
 
 ## Notes
+- You should adjust the left and right margin of the email body to 40px in order for this component to display correctly
 - Many of the hopper green icons are already hosted in amazon AWS at the following path: email/icons/lt5_es/hopper-green-icons/
 - The icon you want to use may already exist at the above location. If it is not there when you search, create a new one using the following nomenclature: **lt5-icon-hg-no-ring-[image-description].png**
 
 ## Tabs
-After inserting the code snippet into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
-1. icon 1 header
-2. icon 1 blurb
-3. icon 2 header
-4. icon 2 blurb
-5. icon 3 header
-6. icon 3 blurb
+After inserting the code snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
+1. box 1 header
+2. box 1 blurb
+3. box 2 header
+4. box 2 blurb
+5. box 3 header
+6. box 3 blurb
 
 [Return Home](index.md)
