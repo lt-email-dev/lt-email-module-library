@@ -56,7 +56,7 @@ The dark mode CSS for this module is already included in the starter template
 - No notes. Go crazy!
 
 ## Tabs
-After inserting the code snippet into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
+After inserting the snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
 1. bullet color
 2. text color
 3. font size
