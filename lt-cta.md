@@ -65,7 +65,7 @@ The dark mode CSS for this module is already included in the starter template
 - You can change this button to 3 different colors: #FF704D(Electric Salmon), #00AEEF(Blue) or #08C177(Green)
 
 ## Tabs
-After inserting the code snippet into VS Code immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
+After inserting the code snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
 1. button width
 2. dropdown where you select the button color
 3. border radius: enter either 4 (square) or 25 (round)
