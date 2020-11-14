@@ -81,7 +81,7 @@ h1, h2, h3, p, span, a, b { color: #ffffff !important; }
 ```
 
 ## Notes
-- When you first add this module to the email template **the button will NOT be included**. But there will be instructions to use the [lt-cta snippet](lt-cta.md) to add a button. You can then change align="center" to align="right" in the CTA snippet to left align the button.
+- When you first add this module to the email template **the button will NOT be included**. But there will be instructions to use the [CTA Snippet](lt-cta.md) to add a button. You can then change align="center" to align="left" in the CTA snippet to left align the button.
 
 ## Tabs
 After inserting the code snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
