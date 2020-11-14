@@ -7,5 +7,13 @@ This snippet inserts a div that can be used to center elements such as images an
 ```
 VSCode Snippet Shortcut: lt-center
 ```
+## Rendered HTML Code 
+This snippet renders the below code 
+
+```
+<div align="center" style="margin: 0 auto;">
+            
+</div>
+```
 
 [Return Home](index.md)
