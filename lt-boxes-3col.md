@@ -19,7 +19,7 @@ VSCode Snippet Shortcut: lt-boxes-3col
 ![3 Column Boxes on Mobile](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-boxes-3col-mobile.png)
 
 
-## Mobile CSS:
+## Mobile CSS
 The mobile CSS for this module is not included in the starter template
 ```
  .pl-0 {
@@ -44,7 +44,7 @@ The mobile CSS for this module is not included in the starter template
 ```
 
 
-## Dark Mode CSS:
+## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
 ```
 .dm-border-none {border:none !important;} 
