@@ -26,8 +26,8 @@ The mobile CSS for this module is already included in the starter template
 
 ```
 
-## MSO CSS:
-The mso CSS for this module is already included in the starter template
+## Microsoft Outlook CSS:
+The MSO CSS for this module is already included in the starter template
 ```
 <!--[if mso]>
 <style type="text/css">
