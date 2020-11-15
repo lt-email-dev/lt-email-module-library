@@ -16,7 +16,6 @@ This is a library that houses modular email components. It lists the VSCode snip
 
 ## Useful Miscellaneous Snippets
 - [Centering Div](lt-center.md)
+- [Dark Mode](dark-mode.md)
 - [Font: Sans Serif](lt-font-ss.md)
 - [Font: Serif](lt-font-s.md)
-- [Dark Mode](dark-mode.md)
-
