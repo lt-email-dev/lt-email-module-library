@@ -8,7 +8,7 @@ This is your run of the mill basic image
 VSCode Snippet Shortcut: lt-img
 ```
 
-## Mobile CSS:
+## Mobile CSS
 This is a mobile class you can include optionally to make the image full width on mobile.
 ```
 .fluid-img {
