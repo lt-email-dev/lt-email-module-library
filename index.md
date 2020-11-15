@@ -9,7 +9,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Call to Action (CTA)](lt-cta.md)
 - [Image](lt-img.md)
 
-## Other Email Components
+## Additional Email Components
 - [Approval Odds](lt-approval-odds.md)
 - [Articles](lt-article.md)
 - [3 Column Boxes with Icons and Text](lt-boxes-3col.md)
@@ -18,6 +18,5 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Centering Div](lt-center.md)
 - [Font: Sans Serif](lt-font-ss.md)
 - [Font: Serif](lt-font-s.md)
+- [Dark Mode Snippets](dark-mode-snippets.md)
 
-
-## Dark Mode Snippets
