@@ -22,7 +22,7 @@ Once you insert this module into the template using this snippet, there is a com
 ![Approval Mobile](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-article-mobile.png)
 
 
-## Mobile CSS:
+## Mobile CSS
 Some of the mobile styles are already included in the starter template, others are not.
 ```
 .container-inner {
@@ -72,7 +72,7 @@ Some of the mobile styles are already included in the starter template, others a
   }
 ```
 
-## Dark Mode CSS:
+## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
 ```
 .dm-bg-charcoal { background-color: #303030 !important;}
