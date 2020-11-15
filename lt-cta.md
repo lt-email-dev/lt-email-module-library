@@ -26,6 +26,17 @@ The mobile CSS for this module is already included in the starter template
 
 ```
 
+## MSO CSS:
+The mso CSS for this module is already included in the starter template
+```
+<!--[if mso]>
+<style type="text/css">
+.mso-container-cta { height: 50px !important; }
+</style>
+<![endif]-->
+
+```
+
 
 ## Additional CSS for Hover Effect:
 Paste this CSS above the mobile CSS styles. These are the hover effects. You can paste all of these styles are just the one for the color button you are using.
