@@ -12,7 +12,7 @@ VSCode Snippet Shortcut: lt-cta
 ![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-cta-round.png)
 
 
-## Mobile CSS:
+## Mobile CSS
 The mobile CSS for this module is already included in the starter template
 ```
 .container-cta a {
@@ -26,7 +26,7 @@ The mobile CSS for this module is already included in the starter template
 
 ```
 
-## Microsoft Outlook CSS:
+## Microsoft Outlook CSS
 The MSO CSS for this module is already included in the starter template
 ```
 <!--[if mso]>
@@ -38,7 +38,7 @@ The MSO CSS for this module is already included in the starter template
 ```
 
 
-## Additional CSS for Hover Effect:
+## Additional CSS for Hover Effect
 Paste this CSS above the mobile CSS styles. These are the hover effects. You can paste all of these styles are just the one for the color button you are using.
 ```
 .cta-es:hover { 
@@ -56,7 +56,7 @@ Paste this CSS above the mobile CSS styles. These are the hover effects. You can
 
 ```
 
-## Dark Mode CSS:
+## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
 ```
 /* Make Link Text Black */
