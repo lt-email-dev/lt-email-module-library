@@ -23,7 +23,7 @@ VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
 There are 3 things you'll need to include in order to successfully add this module to a template.
 
 ### 1. Add the Blueshift Shared Asset
-This should be added to the file beneath **bsft_Preheader_Text** shared asset.  This shared asset is already included in the starter template.
+This should be added to the file beneath **\<bsft_Preheader_Text\>** shared asset.  This shared asset is already included in the starter template.
 ```
 <shared_asset> bsft_LT_Credit_Score </shared_asset>
 ```
