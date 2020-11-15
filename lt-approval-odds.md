@@ -28,11 +28,17 @@ This should be added to the file beneath **\<bsft_Preheader_Text\>** shared asse
 <shared_asset> bsft_LT_Credit_Score </shared_asset>
 ```
 
-### 2. Add the Approval Odds Component (lt-approval-odds)
+### 2. Add the Approval Odds Component
 We typically include this in the body of the emails towards the top
+```
+VSCode Snippet Shortcut: lt-approval-odds
+```
 
-### 3. Add the Approval Odds Disclaimer Text (lt-approval-odds-disclaimer-text)
+### 3. Add the Approval Odds Disclaimer Text
 This should be included in the body of the email at the very bottom. It has dynamic logic so that it only show's if the user has excellent, good, or fair credit.
+```
+VSCode Snippet Shortcut: lt-approval-odds-disclaimer-text
+```
 
 ## Mobile CSS
 Some of the mobile styles are already included in the starter template, others are not. **.approval-odds** is not included in the starter template. **lt-p** is included in the starter template
