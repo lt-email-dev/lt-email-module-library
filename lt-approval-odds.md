@@ -34,7 +34,7 @@ We typically include this in the body of the emails towards the top
 ### 3. Add the Approval Odds Disclaimer Text (lt-approval-odds-disclaimer-text)
 This should be included in the body of the email at the very bottom. It has dynamic logic so that it only show's if the user has excellent, good, or fair credit.
 
-## Mobile CSS:
+## Mobile CSS
 Some of the mobile styles are already included in the starter template, others are not. **.approval-odds** is not included in the starter template. **lt-p** is included in the starter template
 ```
 .approval-odds {
@@ -49,7 +49,7 @@ Some of the mobile styles are already included in the starter template, others a
   }
 ```
 
-## Dark Mode CSS:
+## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
 ```
  /* Custom Dark Mode Font Colors */
