@@ -20,14 +20,14 @@ The mobile CSS for this module is already included in the starter template
     padding: 10px !important;
   }
 
-  .container-cta {
+.container-cta {
     width: 267px !important;
   }
 
 ```
 
 ## Microsoft Outlook CSS
-The MSO CSS for this module is already included in the starter template
+The MSO CSS for this module is already included in the starter template. This gives the buttons a height of 50px. If you see that your buttons are a very narrow height when testing in outlook, more than likely this code is missing.
 ```
 <!--[if mso]>
 <style type="text/css">
