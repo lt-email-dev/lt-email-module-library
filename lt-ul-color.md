@@ -11,7 +11,7 @@ VSCode Snippet Shortcut: lt-ul-color
 ![Image of Rounded CTAs](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-ul-color.png)
 
 
-## Mobile CSS:
+## Mobile CSS
 The mobile CSS for this module is already included in the starter template
 ```
 .mb-20 {
@@ -45,7 +45,7 @@ The mobile CSS for this module is already included in the starter template
   }
 ```
 
-## Dark Mode CSS:
+## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
 ```
  /* Custom Dark Mode Font Colors */
