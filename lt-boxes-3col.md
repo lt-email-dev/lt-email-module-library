@@ -56,6 +56,18 @@ The dark mode CSS for this module is already included in the starter template
 - You should adjust the left and right margin of the email body to 40px in order for this component to display correctly
 - Many of the hopper green icons are already hosted in amazon AWS at the following path: email/icons/lt5_es/hopper-green-icons/
 - The icon you want to use may already exist at the above location. If it is not there when you search, create a new one using the following nomenclature: **lt5-icon-hg-no-ring-[image-description].png**
+- You should try to use consistent amounts of text for the header and body of each of the boxes to make sure they have the same heights. Otherwise you will have to set explicit heights on each of the header and body text elements and then create a mobile style to strip them away when they stack.
+
+## Troubleshooting
+If you have issues with the boxes being different heights in **Outlook 2013 120 DPI (Win 10)** you can create a special class like so and add it to the special mso code only section to explicitely set a height for all 3 boxes (only in outlook)
+```
+.mso-h-170 { height:170px !important;}
+```
+
+After creating this class you need to apply it as the **first class** on each of the \<td\>s that contain the stylng for the border and shadow
+```
+<td class="mso-h-170 dm-black-bg dm-no-border" style="background-color: #FFFFFF; border: 1px solid #EFEFEF; padding: 20px 10px; box-shadow: 0px 2px 4px rgba(0,0,0,.2);">
+```
 
 ## Tabs
 After inserting the code snippet into VSCode immediately pressing tab will take you to bookmarked sections in the snippets where edits are commonly made
