@@ -4,7 +4,7 @@
 # 3x2 Boxes with LendingTree Products
 This component is 3 columns and 2 rows of 6 lendingtree products. The products displayed are: Home Loans, Refinance, Home Equity, Personal Loan, Auto Loans, Student Loans
 
-**The splitters shared asset will need to be imported into this template in order for the links in the component to work**
+**The splitters shared asset will need to be imported into this template in order for the links in the component to work: \<shared_asset\> bsft_Splitters \</shared_asset\>**
 
 
 ```
