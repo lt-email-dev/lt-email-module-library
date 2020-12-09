@@ -13,7 +13,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Approval Odds](lt-approval-odds.md)
 - [Articles](lt-article.md)
 - [3 Column Boxes with Icons and Text](lt-boxes-3col.md)
-- [3x2 Products](lt-3x2-products.md)
+- [3x2 Boxes with LendingTree Products](lt-3x2-products.md)
 
 ## Useful Miscellaneous Snippets
 - [Centering Div](lt-center.md)
