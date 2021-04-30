@@ -19,4 +19,7 @@ This is a library that houses modular email components. It lists the VSCode snip
 - [Font: Sans Serif](lt-font-ss.md)
 - [Font: Serif](lt-font-s.md)
 
+## Shared Assets
+- [Reverse Mortgage eBook](sa-reverse-mortgage-ebook.md)
+
 ![woman at computer](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-email-module-library-hero.jpg)
