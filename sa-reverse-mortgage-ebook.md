@@ -1,83 +1,60 @@
 
 [Return Home](index.md)
 
-# 3x2 Boxes with LendingTree Products
-This component is 3 columns and 2 rows of 6 lendingtree products. The products displayed are: Home Loans, Refinance, Home Equity, Personal Loan, Auto Loans, Student Loans
-
-**Note:** The splitters shared asset will need to be imported into this template in order for the links in the component to work: **\<shared_asset\> bsft_Splitters \</shared_asset\>**
+# Reverse Mortgage eBook Shared Asset
+This shared asset is added to the bottom of select reverse mortgage template
 
 
 ```
-VSCode Snippet Shortcut: lt-3x2-products
+Blueshift CSS Shared Asset Component: <shared_asset> bsft_reverse_mortgage_ebook_content_block_css </shared_asset>
+Blueshift HTML Shared Asset Component: <shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>
+
 ```
 
 ### Desktop
-![3 Column Boxes on Desktop](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-3x2-products-desktop.png)
+![eBook Shared Asset on Desktop](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/sa-reverse-mortgage-ebook-desktop.png)
 
-### Desktop Dark Mode
-![3 Column Boxes on Desktop - Dark mode Version](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-3x2-products-desktop-dm.png)
 
 ### Mobile
-![3 Column Boxes on Mobile](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/lt-3x2-products-mobile.png)
+![eBook Shared Asset on Mobile](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/sa-reverse-mortgage-ebook-mobile.png)
+
+
+### Sample Template with eBook Shared Asset
+![eBook Shared Asset used in a Template](https://s3.amazonaws.com/marketing.lendingtree.com/email/module-library/sa-reverse-mortgage-ebook-sample-template.png)
 
 
 ## Mobile CSS
-Some of the CSS is included in the starter template, some is not.
-```
-  .font-15 {
-    font-size: 15px !important;
-  }
-
-  .lh-24 {
-    line-height: 24px !important;
-  }
-
-  .width-278 {
-    width: 278px !important
-  }
-  
-  .mb-10 {
-    margin-bottom: 20px !important;
-  }
-
-  .center-elem {
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
-```
+All of the mobile CSS for this module is included in the CSS Shared Asset: ```<shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>```
 
 
 ## Dark Mode CSS
 The dark mode CSS for this module is already included in the starter template
-```
-.dm-bg-black { background-color: #000000 !important;}
 
-.dm-border-black {border-color:#000000 !important;}
-
-.dm-text-white {color: #FFFFFF !important;}
-```
 
 ## MSO CSS
-The MSO CSS is not already included in the starter template
+The MSO CSS may already be included in the template you are using.  If not, make sure to add the below code snippet.  This code ensures that the buttons render correctly in outlook clients
+
 ```
-.mso_clear_style {
-    border: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    width: 100% !important;
-  }
-  
-.mso-width {width:460px !important;}
+<!--[if mso]>
+<style type="text/css">
+.mso-container-cta { height: 50px !important; }
+</style>
+<![endif]-->
 ```
 
 ## Notes
-- This module is automatically left aligned, and will center align on mobile
-- If you want this module to be center aligned on desktop simply change **align="left"** to **align="center"** on the first outer table
+- In this shared asset the text is left aligned, but will center align on mobile
+- The shared asset for the CSS should be placed just beneath the css that is hard coded into the header of the template.  It should go outside fo the closing style tag for the CSS
 
 ## Troubleshooting
 No troubleshooting tips at this moment
 
-## Tabs
-There are no tabs for this module/component
+## Sample Templates in Blueshift
+Reference these templates in Blueshift if you need to see exactly how to use this shared asset
+
+- trigger-dropoff-rm-day2-ctl
+- trigger-dropoff-rm-day4-ctl
+- trigger-dropoff-rm-day8-ctl
+
 
 [Return Home](index.md)
