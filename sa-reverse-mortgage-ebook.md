@@ -44,7 +44,7 @@ The MSO CSS may already be included in the template you are using.  If not, make
 ```
 
 ## Notes
-- The shared asset for the CSS should be placed just beneath the css that is hard coded into the header of the template.  It should go outside of the closing style tag for the CSS
+- The shared asset for the CSS should be placed just below the closing style tag for the CSS embedded in the template.
 
 
 ## Troubleshooting
