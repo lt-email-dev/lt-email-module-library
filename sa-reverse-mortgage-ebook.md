@@ -46,8 +46,10 @@ The MSO CSS may already be included in the template you are using.  If not, make
 - In this shared asset the text is left aligned, but will center align on mobile
 - The shared asset for the CSS should be placed just beneath the css that is hard coded into the header of the template.  It should go outside fo the closing style tag for the CSS
 
+
 ## Troubleshooting
 No troubleshooting tips at this moment
+
 
 ## Sample Templates in Blueshift
 Reference these templates in Blueshift if you need to see exactly how to use this shared asset
