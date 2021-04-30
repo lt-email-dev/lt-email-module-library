@@ -2,12 +2,12 @@
 [Return Home](index.md)
 
 # Reverse Mortgage eBook Shared Asset
-This shared asset is added to the bottom of select reverse mortgage template
+This shared asset is added to the bottom of select reverse mortgage template.  It contains parts. The CSS and the HTML Styling.  The shared asset for the CSS should be placed just below the closing style tag for the CSS embedded in the template.
 
 
 ```
-Blueshift CSS Shared Asset Component: <shared_asset> bsft_reverse_mortgage_ebook_content_block_css </shared_asset>
-Blueshift HTML Shared Asset Component: <shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>
+CSS: <shared_asset> bsft_reverse_mortgage_ebook_content_block_css </shared_asset>
+HTML: <shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>
 
 ```
 
@@ -24,11 +24,12 @@ Blueshift HTML Shared Asset Component: <shared_asset> bsft_reverse_mortgage_eboo
 
 
 ## Mobile CSS
-All of the mobile CSS for this module is included in the CSS Shared Asset: ```<shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>```
+All of the mobile CSS for this module is included in the CSS Shared Asset: 
+```<shared_asset> bsft_reverse_mortgage_ebook_content_block </shared_asset>```
 
 
 ## Dark Mode CSS
-The dark mode CSS for this module is already included in the starter template
+There is no special dark mode styling required for this template
 
 
 ## MSO CSS
@@ -43,8 +44,7 @@ The MSO CSS may already be included in the template you are using.  If not, make
 ```
 
 ## Notes
-- In this shared asset the text is left aligned, but will center align on mobile
-- The shared asset for the CSS should be placed just beneath the css that is hard coded into the header of the template.  It should go outside fo the closing style tag for the CSS
+- The shared asset for the CSS should be placed just beneath the css that is hard coded into the header of the template.  It should go outside of the closing style tag for the CSS
 
 
 ## Troubleshooting
