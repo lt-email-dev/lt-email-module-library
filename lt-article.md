@@ -4,7 +4,7 @@
 # Articles
 This module should be inserted just above the footer or below the main body content.  It is not meant to be used within the main body content of the email. This module displays a space beneath the main body of the email then displays two article blocks separated by a space. On mobile the image stacks above the text.
 ```
-VSCode Snippet Shortcut: lt-article
+VSCode Snippet Shortcut: lt-articles
 ```
 
 ### Original View
